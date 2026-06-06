@@ -1,0 +1,17 @@
+{
+  "name": "sasiya-md-bot",
+  "version": "1.0.0",
+  "description": "Sasiya Bot With Web Panel and Interactive Media Downloader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0",
+    "express": "^4.19.2",
+    "pino": "^9.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
